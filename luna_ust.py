@@ -13,8 +13,8 @@ ust ="7129"
 
 
 # 存上一次文件路径
-# csv_path = '/root/luna-ust/last_data.csv'
-csv_path = '/Users/theachen/Dropbox/PY/LAB/git/luna-ust/last_data.csv' 
+csv_path = '/root/luna-ust/last_data.csv'
+# csv_path = '/Users/theachen/Dropbox/PY/LAB/git/luna-ust/last_data.csv' #本地
 
 
 def get_data(target,index):
